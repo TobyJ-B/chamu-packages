@@ -1,4 +1,4 @@
-(define-module (chamu-packages neovim-nightly)
+(define-module (neovim-nightly)
   #:use-module (gnu packages vim)
   #:use-module (gnu packages lua)
   #:use-module (gnu packages libevent)

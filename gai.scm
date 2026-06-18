@@ -8,6 +8,7 @@
   #:use-module (guix packages)
   #:use-module (guix git-download)
   #:use-module (guix build-system gnu)
+	#:use-module (guix gexp)
   #:use-module (guix licenses)
   #:use-module (gnu packages gtk)
   #:use-module (gnu packages glib)
